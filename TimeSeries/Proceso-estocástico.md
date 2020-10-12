@@ -37,8 +37,8 @@ En la siguiente gráfico podemos observar una realización del proceso
 
 *x*(*t*) = *μ* + *x*(*t* − 1) + *ε*(*t*)
 
-![](figures/plot1-1.png)
+![](Proceso-estocástico_files/figure-markdown_strict/plot1-1.png)
 
 En el siguiente gráfico vamos a observar 100 realizaciones del proceso.
 
-![](figures/plot2-1.png)
+![](Proceso-estocástico_files/figure-markdown_strict/plot2-1.png)
