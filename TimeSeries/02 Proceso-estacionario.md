@@ -1,4 +1,4 @@
-Serie de tiempo vista como Proceso estocástico
+Proceso estacionario
 ----------------------------------------------
 
 Para hacer inferencia estadística sobre la estructura de un proceso
