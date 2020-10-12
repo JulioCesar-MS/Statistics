@@ -14,6 +14,7 @@ Diremos que un proceso estocástico (serie temporal) es estacionario en
 sentido estricto si:
 
 (*X*<sub>1</sub>, *X*<sub>2</sub>, *X*<sub>3</sub>, ..., *X*<sub>*n*</sub>) y (*X*<sub>1 + *h*</sub>, *X*<sub>2 + *h*</sub>, *X*<sub>3 + *h*</sub>, ..., *X*<sub>*n* + *h*</sub>)
+
 tienen la misma distribución para todos los enteros *h* y *n* &gt; 0.
 
 Esta condición establece que la media y la varianza de todas las
